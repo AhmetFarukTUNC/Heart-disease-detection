@@ -27,9 +27,18 @@ Scikit-learn (for ML model)
 Bootstrap (or Tailwind CSS for styling)
 
 📷 Screenshots
-🏠 Home Page
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20175800.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20175830.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20175929.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20175942.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180022.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180035.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180051.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180103.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180116.png)  
+![Home Page](images/home.png)  
+![Home Page](images/home.png)  
 
-📊 Prediction Result
 
 👨‍💻 Contribution
 
