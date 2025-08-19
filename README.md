@@ -37,7 +37,7 @@ Bootstrap (or Tailwind CSS for styling)
 ![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180103.png)  
 ![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180116.png)  
 ![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180132.png)  
-![Home Page](images/home.png)  
+![Home Page](https://github.com/AhmetFarukTUNC/Heart-disease-detection/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-08-19%20180145.png)  
 
 
 👨‍💻 Contribution
